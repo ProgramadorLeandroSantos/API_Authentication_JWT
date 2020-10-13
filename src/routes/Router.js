@@ -1,6 +1,6 @@
 const express = require('express'); //express module
 const route = express.Router(); //calling Router from express
-const jwt = require('jsonwebtoken'); //jason web token import
+const jwt = require('jsonwebtoken'); //json web token import
 const DB = require('../../databases/Db'); // fake Databases
 const authenticate = require('../middlewares/Middle'); //middleware
 const Secret = require('../middlewares/JWTSecret'); //JWT secret
