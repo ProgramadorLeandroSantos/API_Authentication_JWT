@@ -14,4 +14,4 @@
 5 - Agora use o insomnia ou postman para fazer as requisiçoês para as rotas `/auth` ou `/user`
 
 ##### Objetivo: Estudar  Tratamentos de dados Json, Middlewares e autenticação de usuarios com JWT.
-###### Tecnologia utilizada : Node JS
+###### Tecnologia utilizada : Node JS, JWT
